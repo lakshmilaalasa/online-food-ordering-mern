@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/online-food-ordering-mern/static/css/main.ba20f303.css",
+    "main.js": "/online-food-ordering-mern/static/js/main.dd939c10.js",
+    "static/js/787.b7c9c4a7.chunk.js": "/online-food-ordering-mern/static/js/787.b7c9c4a7.chunk.js",
+    "static/media/slick.svg": "/online-food-ordering-mern/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/online-food-ordering-mern/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/online-food-ordering-mern/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/online-food-ordering-mern/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/online-food-ordering-mern/index.html",
+    "main.ba20f303.css.map": "/online-food-ordering-mern/static/css/main.ba20f303.css.map",
+    "main.dd939c10.js.map": "/online-food-ordering-mern/static/js/main.dd939c10.js.map",
+    "787.b7c9c4a7.chunk.js.map": "/online-food-ordering-mern/static/js/787.b7c9c4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba20f303.css",
+    "static/js/main.dd939c10.js"
+  ]
+}
